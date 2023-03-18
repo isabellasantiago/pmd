@@ -1,0 +1,18 @@
+[submodule "estacao-climatica"]
+    path = estacao-climatica
+    url = https://github.com/isabellasantiago/estacao-climatica.git
+[submodule "forms-eventos-requisicoes"]
+    path = forms-eventos-requisicoes
+    url = https://github.com/isabellasantiago/forms-eventos-requisicoes.git
+[submodule "exercicios"]
+    path = exercicios
+    url = https://github.com/isabellasantiago/exercicios.git
+[submodule "meu-primeiro-app-react"]
+    path = meu-primeiro-app-react
+    url = https://github.com/isabellasantiago/meu-primeiro-app-react.git
+[submodule "meu-segundo-app-react"]
+    path = meu-segundo-app-react
+    url = https://github.com/isabellasantiago/meu-segundo-app-react.git
+[submodule "react-componentes-props"]
+    path = react-componentes-props
+    url = https://github.com/isabellasantiago/react-componentes-props.git
